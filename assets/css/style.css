@@ -1,0 +1,30 @@
+html, body {
+    color: rgb(101, 46, 116);
+    font-size: 14px;
+    line-height: 20px;
+    background-image: url("https://bennettfeely.com/gradients/img/gradient_24.png");
+    height: 100%;
+}
+
+h1 {
+    font-family: 'Bungee Shade';
+    font-size: 60px;
+    text-shadow: 3px 2px red;
+    border: 5px;
+}
+
+h2 {
+    font-family: 'Londrina Solid';
+    font-size: 22px;
+}
+
+.container {
+    height: 100%;
+    margin: 0 auto;
+}
+
+#game {
+    z-index: 1;
+    text-align: left;
+    font-family: sans-serif;
+}
